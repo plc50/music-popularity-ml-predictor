@@ -119,7 +119,6 @@ Team members:
 
 - Brian Polo
 - Juan Diego Bermúdez
-- Roberto Sánchez
 
 ---
 
